@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-https://josequifloz-lgtm.github.io/METODO-MOREIRA/sitemap.xml
+
+Sitemap: https://josequifloz-lgtm.github.io/METODO-MOREIRA/sitemap.xml
